@@ -1,4 +1,4 @@
-![logo] (logo-png)
+![logo](logo.png)
 # leo  company 
 articulos para perros 
 slogan:“Diversión y cuidado para tu mejor amigo”
